@@ -46,8 +46,8 @@ const RESOURCES = {"assets/asset/image/cart_app.png": "6e55c5fccd61c3b76cb3e74a5
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "dd598362ff2beb41eae7346c584b4e43",
-"/": "dd598362ff2beb41eae7346c584b4e43",
+"index.html": "b682551af50d2ecd3d03bfb62b0afef0",
+"/": "b682551af50d2ecd3d03bfb62b0afef0",
 "main.dart.js": "1836d82960df29508580ea733f60e39e",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "1c95233488ffbfb7b806f79de77833f3"};
